@@ -1,14 +1,30 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=D9EAD3&height=150&section=header&text=WelCome&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=D9EAD3&height=150&section=header&text=WelCome!&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :wave: Welcome my github profile !
+<Strong>📧Email📧</Strong><br>choi8327@gmail.com<br>
+ 
+  
 
-  
+</p>
+
+<br>
+
+<p align="center">
+반갑습니다👐<br>
+제 이름은 최우성이고 웹개발를 공부하고 있어요!<br>
+항상 배우려는 자세로 학습에 임하고 있습니다.<br>
+배움의 성과뿐만 아니라 과정 또한 중요하게 여기는 개발자입니다.
+</p>
+
+<br>
+
+
  <br/>
  <br/>
   
-####  :clipboard: Once I've Used 
+####  :clipboard: Tech Stack
   
  <br/>
   
@@ -28,10 +44,6 @@
    <br/>
    <br/>
  
-#### :pencil2: Study log
- 
   <br/>
-
-![ github stats](https://github-readme-stats.vercel.app/api?username=pgmjun&show_icons=true)
   
 </div>
